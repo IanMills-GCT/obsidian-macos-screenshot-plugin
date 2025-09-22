@@ -92,7 +92,7 @@ If Obsidian doesn't appear in the list:
 4. Click **Install** and then **Enable**
 
 ### Manual Installation
-1. Download the latest release from [GitHub releases](https://github.com/yourusername/obsidian-macos-screenshot-plugin/releases)
+1. Download the latest release from https://github.com/IanMills-GCT/obsidian-macos-screenshot-plugin
 2. Extract the files to `<your-vault>/.obsidian/plugins/macos-screenshot-plugin/`
 3. The folder should contain: `main.js`, `manifest.json`, and optionally `styles.css`
 4. Restart Obsidian
@@ -182,7 +182,7 @@ This plugin is open source! Contributions welcome.
 
 ### Building from Source
 ```bash
-git clone https://github.com/yourusername/obsidian-macos-screenshot-plugin
+git clone https://github.com/IanMills-GCT/obsidian-macos-screenshot-plugin.git
 cd obsidian-macos-screenshot-plugin
 npm install
 npm run build
@@ -216,8 +216,8 @@ If you find this plugin helpful:
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/yourusername/obsidian-macos-screenshot-plugin)
-- [Issue Tracker](https://github.com/yourusername/obsidian-macos-screenshot-plugin/issues)
+- [GitHub Repository](https://github.com/IanMills-GCT/obsidian-macos-screenshot-plugin.git)
+- [Issue Tracker](https://github.com/IanMills-GCT/obsidian-macos-screenshot-plugin/issues)
 - [Obsidian Community Forum](https://forum.obsidian.md/)
 - [Obsidian Discord](https://discord.gg/veuWUTm)
 
